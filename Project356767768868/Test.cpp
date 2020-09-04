@@ -1,11 +1,13 @@
-//But: Créer un programme qui affiche un message à l'écran en sauvegardant plusieurs versions de
-// ce programme avec git et de l'héberger sur la plateforme GitHub.
-// Auteur: Félix-Antoine Campbell
+//But: CrÃ©er un programme qui affiche un message Ã  l'Ã©cran en sauvegardant plusieurs versions de
+// ce programme avec git et de l'hÃ©berger sur la plateforme GitHub.
+// Auteur: FÃ©lix-Antoine Campbell
 // Date: 2020-09-04
 
 
-int main(/*Liste des paramètres séparés par une virgule le cas échéant*/)
+int main(/*Liste des paramÃ¨tres sÃ©parÃ©s par une virgule le cas Ã©chÃ©ant*/)
 {
+	//Pour corriger les caractÃ¨res accentuÃ©s
+	setlocal(LC_ALL,"");
 
 
 
